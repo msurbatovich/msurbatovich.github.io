@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Milijana Surbatovich
 
-You can use the [editor on GitHub](https://github.com/msurbatovich/msurbatovich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in compilers, programming languages, and formal methods for intermittent computing.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to know more about intermittent computing, check out our lab website: [Abstract Research Group](http://abstract.ece.cmu.edu/)
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2019. I/O dependent idempotence bugs in intermittent systems. 
+Proc. ACM Program. Lang. 3, OOPSLA, Article 183 (October 2019), 31 pages. DOI: https://doi.org/10.1145/3360609_
+[Link](./assets/docs/oopsla19main-p401-p.pdf) [Slides (as powerpoint)](./assets/docs/ibis_presentation_short.pptx)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+As an undergrad, I did a research internship looking at information flow in the internet of things: 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msurbatovich/msurbatovich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin Jia. 2017. Some Recipes Can Do More Than Spoil Your Appetite: Analyzing the Security and Privacy Risks of IFTTT Recipes. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 1501-1510. DOI: https://doi.org/10.1145/3038912.3052709_ 
+[Link](https://www.archive.ece.cmu.edu/~lbauer/papers/2017/www2017-ifttt-info-flows.pdf)
