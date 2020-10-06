@@ -9,9 +9,9 @@ Contact: milijans at andrew dot cmu dot edu
 ### Publications
 
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2020. Towards a Formal Foundation of Intermittent Computing. 
-To appear in OOPSLA 2020. 
+To appear in OOPSLA 2020._ 
 
-_Camille Cobb, **Milijana Surbatovich**, Anna Kawakami, Mahmood Sharif, Lujo Bauer, Anupam Das, Limin Jia. 2020. How Risky Are Real Users’ IFTTT Applets? USENIX Symposium on Usable Privacy and Security (SOUPS 2020). [Link to paper](https://camillec.com/SOUPS_2020_IFTTT.pdf)  
+_Camille Cobb, **Milijana Surbatovich**, Anna Kawakami, Mahmood Sharif, Lujo Bauer, Anupam Das, Limin Jia. 2020. How Risky Are Real Users’ IFTTT Applets? USENIX Symposium on Usable Privacy and Security (SOUPS 2020)._ [Link to paper](https://camillec.com/SOUPS_2020_IFTTT.pdf)  
 
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2019. I/O dependent idempotence bugs in intermittent systems. 
 Proc. ACM Program. Lang. 3, OOPSLA, Article 183 (October 2019), 31 pages. DOI: https://doi.org/10.1145/3360609_
