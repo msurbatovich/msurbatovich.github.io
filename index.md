@@ -8,8 +8,12 @@ Contact: milijans at andrew dot cmu dot edu
 
 ### Publications
 
+_**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2021. Automatically Enforcing Fresh and Consistent Inputs in Intermittent Systems. 
+To Appear in PLDI 2021. Link coming soon.
+
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2020. Towards a Formal Foundation of Intermittent Computing. 
-To appear in OOPSLA 2020._ 
+Proc. ACM Program. Lang. 4, OOPSLA, Article 163 (November 2020), 31 pages. DOI:https://doi.org/10.1145/3428231_ 
+[Link to paper](./assets/docs/surbatovich_oopsla20.pdf)  
 
 _Camille Cobb, **Milijana Surbatovich**, Anna Kawakami, Mahmood Sharif, Lujo Bauer, Anupam Das, Limin Jia. 2020. How Risky Are Real Users’ IFTTT Applets? USENIX Symposium on Usable Privacy and Security (SOUPS 2020)._ [Link to paper](https://camillec.com/SOUPS_2020_IFTTT.pdf)  
 
@@ -18,12 +22,12 @@ Proc. ACM Program. Lang. 3, OOPSLA, Article 183 (October 2019), 31 pages. DOI: h
 [Link to paper](./assets/docs/oopsla19main-p401-p.pdf)     [Slides (as powerpoint)](./assets/docs/ibis_presentation_short.pptx)
 
 
-As an undergrad, I did a research internship looking at information flow in the internet of things: 
+As an undergraduate, I did a research internship looking at information flow in the internet of things: 
 
 _**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin Jia. 2017. Some Recipes Can Do More Than Spoil Your Appetite: Analyzing the Security and Privacy Risks of IFTTT Recipes. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). 1501-1510. DOI: https://doi.org/10.1145/3038912.3052709_ 
 [Link to paper](https://www.archive.ece.cmu.edu/~lbauer/papers/2017/www2017-ifttt-info-flows.pdf)
 
 
 ### Education
-- Carnegie Mellon University: 2017 - Present: PhD in Electrical & Computer Engineering
+- Carnegie Mellon University: 2017 - Present: PhD in Electrical & Computer Engineering. Master's degree awarded May 2020.
 - University of Rochester, 2013-2017: B.S. in Computer Science, _Summa cum laude_, minor in Russian.
