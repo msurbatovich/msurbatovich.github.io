@@ -9,7 +9,7 @@ Contact: milijans at andrew dot cmu dot edu
 ### Publications
 
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2021. Automatically Enforcing Fresh and Consistent Inputs in Intermittent Systems. 
-To Appear in PLDI 2021. Link coming soon.
+To Appear in PLDI 2021. Link coming soon._
 
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2020. Towards a Formal Foundation of Intermittent Computing. 
 Proc. ACM Program. Lang. 4, OOPSLA, Article 163 (November 2020), 31 pages. DOI:https://doi.org/10.1145/3428231_ 
