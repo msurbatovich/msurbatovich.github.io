@@ -1,10 +1,13 @@
 ## About me
 
-I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in compilers, programming languages, and formal methods for intermittent computing.  
+I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittent computing. I want to 
+operationalize formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications will run correctly and securely.
 
 If you want to know more about intermittent computing, check out our lab website: [Abstract Research Group](http://abstract.ece.cmu.edu/)
 
-Contact: milijans at andrew dot cmu dot edu [CV](./assets/docs/surbatovich_cv_2021.pdf)
+I am honored to have received the [CyLab Presidential Fellowship](https://cylab.cmu.edu/news/2021/08/11-presidential-fellows.html) in 2021.
+
+Contact: milijans at andrew dot cmu dot edu [CV](./assets/docs/Surbatovich_CV_2021.pdf)
 
 ### Publications
 
