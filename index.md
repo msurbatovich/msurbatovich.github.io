@@ -4,16 +4,15 @@ I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon Unive
 
 If you want to know more about intermittent computing, check out our lab website: [Abstract Research Group](http://abstract.ece.cmu.edu/)
 
-Contact: milijans at andrew dot cmu dot edu 
+Contact: milijans at andrew dot cmu dot edu [CV](./assets/docs/surbatovich_cv_2021.pdf)
 
 ### Publications
 
-_**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2021. Automatically Enforcing Fresh and Consistent Inputs in Intermittent Systems. 
-To Appear in PLDI 2021. Link coming soon._
+_**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2021. Automatically enforcing fresh and consistent inputs in intermittent systems. Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation. DOI:https://doi.org/10.1145/3453483.3454081_ [Link to paper](./assets/docs/pldi21main-p363-p-ad47bbe125-51344-final.pdf)
 
 _**Milijana Surbatovich**, Limin Jia, and Brandon Lucia. 2020. Towards a Formal Foundation of Intermittent Computing. 
 Proc. ACM Program. Lang. 4, OOPSLA, Article 163 (November 2020), 31 pages. DOI:https://doi.org/10.1145/3428231_ 
-[Link to paper](./assets/docs/surbatovich_oopsla20.pdf)  
+[Link to paper](./assets/docs/surbatovich_oopsla20.pdf) [Slides (as pdf)](./assets/docs/formal_foundation_flat_copy.pdf) 
 
 _Camille Cobb, **Milijana Surbatovich**, Anna Kawakami, Mahmood Sharif, Lujo Bauer, Anupam Das, Limin Jia. 2020. How Risky Are Real Users’ IFTTT Applets? USENIX Symposium on Usable Privacy and Security (SOUPS 2020)._ [Link to paper](https://camillec.com/SOUPS_2020_IFTTT.pdf)  
 
