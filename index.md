@@ -1,7 +1,7 @@
 ## About me
 
-I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittently powered energy harvesting devices, and non-traditional computing systems more broadly. 
-I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness.
+I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittently powered energy harvesting devices and non-traditional computing systems more broadly. 
+I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness.
 
 My PhD research focused on
 operationalizing formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications will run correctly. If you want to know more about intermittent computing, check out our lab website: [Abstract Research Group](http://abstract.ece.cmu.edu/). 
