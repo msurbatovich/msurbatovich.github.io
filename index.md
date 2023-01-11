@@ -10,11 +10,11 @@ I am honored to have received the [CyLab Presidential Fellowship](https://cylab.
 my work on creating a type system for reasoning about correct intermittent execution, and 
 I was selected as a [2022 Rising Star in EECS](https://risingstars.utexas.edu/profiles/milijana-surbatovich)
 
-**I am on the tenure-track faculty job market for 2023**, primarily 
-looking at schools in the US and Canada. Please reach out if you 
+**I am on the tenure-track faculty job market for 2023**, 
+looking at schools in the US, Canada, and Europe. Please reach out if you 
 think my research would be a good fit for your department.
 
-[CV](./assets/docs/Surbatovich_CV_2022.pdf) [Research Statement](./assets/docs/surbatovich_research_statement.pdf) [Teaching Statement](./assets/docs/surbatovich_teaching_statement.pdf) 
+[CV](./assets/docs/Surbatovich_CV_jan_23.pdf) [Research Statement](./assets/docs/surbatovich_research_statement.pdf) [Teaching Statement](./assets/docs/surbatovich_teaching_statement.pdf) 
 [DEI Statement](./assets/docs/surbatovich_dei_statement.pdf)
 
 Contact: milijans at andrew dot cmu dot edu
@@ -22,7 +22,7 @@ Contact: milijans at andrew dot cmu dot edu
 ### Publications
 _**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. In Submission_
 
-_Farzaneh Derakhshan, Myra Dotzel, **Milijana Surbatovich**, and Limin Jia. 2023. Modal Crash Types for Intermittent Computing. In Submission_
+_Farzaneh Derakhshan, Myra Dotzel, **Milijana Surbatovich**, and Limin Jia. 2023. Modal Crash Types for Intermittent Computing. To appear at ESOP 23_
 
 
 _Emily Ruppel, **Milijana Surbatovich**, Harsh Desai, Kiwan Maeng and Brandon Lucia. 2022. An Architectural Charge Management Interface for Energy-Harvesting Systems. 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022, pp. 318-335, doi: 10.1109/MICRO56248.2022.00034_
