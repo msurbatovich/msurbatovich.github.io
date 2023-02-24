@@ -20,7 +20,7 @@ think my research would be a good fit for your department.
 Contact: milijans at andrew dot cmu dot edu
 
 ### Publications
-_**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. In Submission_
+_**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. To appear at PLDI 23_
 
 _Farzaneh Derakhshan, Myra Dotzel, **Milijana Surbatovich**, and Limin Jia. 2023. Modal Crash Types for Intermittent Computing. To appear at ESOP 23_
 
