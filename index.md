@@ -1,6 +1,8 @@
 ## About me
 
-I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittently powered energy harvesting devices and non-traditional computing systems more broadly. 
+**I will be joining the [University of Maryland CS department](https://www.cs.umd.edu/) as an Assistant Professor in January 2024**
+
+Currently, I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittently powered energy harvesting devices and non-traditional computing systems more broadly. 
 I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness.
 
 My PhD research focused on
@@ -10,17 +12,11 @@ I am honored to have received the [CyLab Presidential Fellowship](https://cylab.
 my work on creating a type system for reasoning about correct intermittent execution, and 
 I was selected as a [2022 Rising Star in EECS](https://risingstars.utexas.edu/profiles/milijana-surbatovich)
 
-**I am on the tenure-track faculty job market for 2023**, 
-looking at schools in the US, Canada, and Europe. Please reach out if you 
-think my research would be a good fit for your department.
-
-[CV](./assets/docs/Surbatovich_CV_jan_23.pdf) [Research Statement](./assets/docs/surbatovich_research_statement.pdf) [Teaching Statement](./assets/docs/surbatovich_teaching_statement.pdf) 
-[DEI Statement](./assets/docs/surbatovich_dei_statement.pdf)
 
 Contact: milijans at andrew dot cmu dot edu
 
 ### Publications
-_**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. To appear at PLDI 23_
+_**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. To appear at PLDI 23_ [Link to paper](./assets/docs/surbatovich_pldi23_curricle.pdf) 
 
 _Farzaneh Derakhshan, Myra Dotzel, **Milijana Surbatovich**, and Limin Jia. 2023. Modal Crash Types for Intermittent Computing. To appear at ESOP 23_
 
