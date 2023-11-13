@@ -13,7 +13,7 @@ my work on creating a type system for reasoning about correct intermittent execu
 I was selected as a [2022 Rising Star in EECS](https://risingstars.utexas.edu/profiles/milijana-surbatovich)
 
 
-Contact: milijans at andrew dot cmu dot edu
+Contact: milijana at umd dot edu
 
 ### Publications
 _**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. To appear at PLDI 23_ [Link to paper](./assets/docs/surbatovich_pldi23_curricle.pdf) 
