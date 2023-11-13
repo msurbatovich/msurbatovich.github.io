@@ -1,12 +1,12 @@
 ## About me
 
-**I will be joining the [University of Maryland CS department](https://www.cs.umd.edu/) as an Assistant Professor in January 2024**
+**I will be joining the [University of Maryland CS department](https://www.cs.umd.edu/) as an Assistant Professor in January 2024. I am actively looking for motivated undergraduate, master, and Ph.D. students.**
 
-Currently, I am a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research interests are in programming languages, formal methods, and systems for intermittently powered energy harvesting devices and non-traditional computing systems more broadly. 
-I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness.
+My research interests are in programming languages, formal methods, and systems for non-traditional computing systems, broadly speaking. 
+I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness. Check out the PLUM lab to learn more about PL research at UMD: [PLUM](https://plum-umd.github.io/).
 
-My PhD research focused on
-operationalizing formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications will run correctly. If you want to know more about intermittent computing, check out our lab website: [Abstract Research Group](http://abstract.ece.cmu.edu/). 
+Previously, I was a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research focused on designing formally correct 
+intermittent systems for energy-harvesting devices. I operationalized formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications for these devices would run correctly.  
 
 I am honored to have received the [CyLab Presidential Fellowship](https://cylab.cmu.edu/news/2021/08/11-presidential-fellows.html) in 2021. More recently, I won first place in the PLDI 22 SRC for 
 my work on creating a type system for reasoning about correct intermittent execution, and 
@@ -41,5 +41,5 @@ _**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin 
 
 
 ### Education
-- Carnegie Mellon University: 2017 - Present: PhD in Electrical & Computer Engineering. Master's degree awarded May 2020.
+- Carnegie Mellon University: 2017 - 2023: PhD in Electrical & Computer Engineering. Master's degree awarded May 2020.
 - University of Rochester, 2013-2017: B.S. in Computer Science, _Summa cum laude_, minor in Russian.
