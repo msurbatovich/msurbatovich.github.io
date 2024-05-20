@@ -1,12 +1,12 @@
 ## About me
 
-**I will be joining the [University of Maryland CS department](https://www.cs.umd.edu/) as an Assistant Professor in January 2024. I am actively looking for motivated undergraduate, master, and Ph.D. students.**
+**I am an Assistant Professor in the [CS department at the University of Maryland](https://www.cs.umd.edu/), also affiliated with the Maryland Cybersecurity Center and UMIACS. I am always interested in working with motivated undergraduate, master, and Ph.D. students.**
 
 My research interests are in programming languages, formal methods, and systems for non-traditional computing systems, broadly speaking. 
 I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness. Check out the PLUM lab to learn more about PL research at UMD: [PLUM](https://plum-umd.github.io/).
 
 Previously, I was a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research focused on designing formally correct 
-intermittent systems for energy-harvesting devices. I operationalized formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications for these devices would run correctly.  
+intermittent systems for energy-harvesting devices. I leveraged formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications for these devices would run correctly.  
 
 I am honored to have received the [CyLab Presidential Fellowship](https://cylab.cmu.edu/news/2021/08/11-presidential-fellows.html) in 2021. More recently, I won first place in the PLDI 22 SRC for 
 my work on creating a type system for reasoning about correct intermittent execution, and 
