@@ -49,8 +49,8 @@ _**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin 
 - University of Rochester, 2013-2017: B.S. in Computer Science, _Summa cum laude_, minor in Russian.
 
 ### Teaching 
-CMSC 838N - Language-based Security (Fall 2024)
-CMSC 838L - Programming Languages and Computer Architecture (Spring 2024)
+- CMSC 838N - Language-based Security (Fall 2024)
+- CMSC 838L - Programming Languages and Computer Architecture (Spring 2024)
 
 ### Service
 
