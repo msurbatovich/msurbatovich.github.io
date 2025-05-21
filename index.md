@@ -20,6 +20,9 @@ Contact: milijana at umd dot edu
 If you are a student interested in working with me, be sure to make any emails short and specific as to how your past experiences overlap with my research interests. 
 
 ### Publications
+
+_Myra Dotzel, Farzaneh Derakhshan, **Milijana Surbatovich**, and Limin Jia. 2025. Modal Crash Types for WAR-Aware Intermittent Computing. ACM Trans. Program. Lang. Syst. 47, 2, Article 5 (June 2025), 62 pages. https://doi.org/10.1145/3716311_ [Link to paper](./assets/docs/crash_types_toplas.pdf)
+
 _**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. Proc. ACM Program. Lang. 7, PLDI, Article 136 (June 2023), 25 pages. https://doi.org/10.1145/3591250_ [Link to paper](./assets/docs/surbatovich_pldi23_curricle.pdf) 
 
 _Farzaneh Derakhshan, Myra Dotzel, **Milijana Surbatovich**, and Limin Jia. 2023. Modal Crash Types for Intermittent Computing. In ESOP 2023. Lecture Notes in Computer Science, vol 13990. Springer, Cham. https://doi.org/10.1007/978-3-031-30044-8_7_
