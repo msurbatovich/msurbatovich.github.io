@@ -21,6 +21,9 @@ If you are a student interested in working with me, be sure to make any emails s
 
 ### Publications
 
+_Yi Cai, Pratap Singh, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, **Milijana Surbatovich**, and Bryan Parno. 2025. Vest: verified, secure, high-performance parsing and serialization for rust. In Proceedings of the 34th USENIX Conference on Security Symposium (SEC '25). USENIX Association, USA, Article 355, 6917–6935._
+
+
 _Myra Dotzel, Farzaneh Derakhshan, **Milijana Surbatovich**, and Limin Jia. 2025. Modal Crash Types for WAR-Aware Intermittent Computing. ACM Trans. Program. Lang. Syst. 47, 2, Article 5 (June 2025), 62 pages. https://doi.org/10.1145/3716311_ [Link to paper](./assets/docs/crash_types_toplas.pdf)
 
 _**Milijana Surbatovich**, Naomi Spargo, Limin Jia, and Brandon Lucia. 2023. A Type System for Safe Intermittent Computing. Proc. ACM Program. Lang. 7, PLDI, Article 136 (June 2023), 25 pages. https://doi.org/10.1145/3591250_ [Link to paper](./assets/docs/surbatovich_pldi23_curricle.pdf) 
