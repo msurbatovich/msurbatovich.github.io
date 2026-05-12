@@ -75,5 +75,5 @@ Program commitees:
 
 Organizing:
 - 2025: PLMW@SPLASH Junior co-chair 
-- 2026: PLMW@SPASH  Senior co-chair
+- 2026: PLMW@SPLASH  Senior co-chair
 
