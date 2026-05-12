@@ -3,25 +3,32 @@
 **I am an Assistant Professor in the [CS department at the University of Maryland](https://www.cs.umd.edu/), also affiliated with the Maryland Cybersecurity Center and UMIACS.**
 
 My research interests are in programming languages, formal methods, and systems for non-traditional computing platforms, broadly speaking. 
-I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness. Check out the PLUM lab to learn more about PL research at UMD: [PLUM](https://plum-umd.github.io/).
+I want to provide the formal models, enforcement mechanisms, and language abstractions necessary for designing emerging computing platforms to meet well-defined correctness and security guarantees from the ground up, allowing programmers to unlock the full potential of their system without compromising trustworthiness.  
+
+Specifically, my most active research directions are in 1) language design and verified compilers for [dataflow architectures](./assets/docs/let-it-flow-pldi26.pdf), 2) DSLs and frameworks for [verified format parsing and serialization](./assets/docs/vest.pdf), and 
+3) developing formally correct [intermittent computing platforms](./assets/docs/surbatovich_pldi23_curricle.pdf). I am honored to have received an [NSF CAREER award](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2543611) in 2026 to study verified intermittent systems with tiered trust. 
+
 
 **I am always interested in working with motivated Masters and Ph.D. students who share a demonstrable interest in PL/Architecture/Security challenges. I'm generally happy to work with UMD undergrads as well, if they have taken one of my courses or attended one of my talks.**
 
+
+
 Previously, I was a PhD student in Electrical & Computer Engineering at Carnegie Mellon University, co-advised by Brandon Lucia and Limin Jia. My research focused on designing formally correct 
 intermittent systems for energy-harvesting devices. I leveraged formal correctness reasoning to provide practical tools and systems that guarantee intermittent computing applications for these devices would run correctly.  
-
-I am honored to have received the [CyLab Presidential Fellowship](https://cylab.cmu.edu/news/2021/08/11-presidential-fellows.html) in 2021. More recently, I won first place in the PLDI 22 SRC for 
-my work on creating a type system for reasoning about correct intermittent execution, and 
-I was selected as a [2022 Rising Star in EECS](https://risingstars.utexas.edu/profiles/milijana-surbatovich)
+During this time, I received the [CyLab Presidential Fellowship](https://cylab.cmu.edu/news/2021/08/11-presidential-fellows.html) in 2021, won first place in the PLDI 22 SRC for 
+my work on creating a type system for reasoning about correct intermittent execution, and was selected as a [2022 Rising Star in EECS](https://risingstars.utexas.edu/profiles/milijana-surbatovich)
 
 
 Contact: milijana at umd dot edu
 
-If you are a student interested in working with me, be sure to make any emails short and specific as to how your past experiences overlap with my research interests. 
+If you are a student interested in working with me, be sure to make any emails short and specific as to how your past experiences overlap with my research interests. Check out the PLUM lab to learn more about PL research at UMD: [PLUM](https://plum-umd.github.io/).
+
 
 ### Publications
 
-_Yi Cai, Pratap Singh, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, **Milijana Surbatovich**, and Bryan Parno. 2025. Vest: verified, secure, high-performance parsing and serialization for rust. In Proceedings of the 34th USENIX Conference on Security Symposium (SEC '25). USENIX Association, USA, Article 355, 6917–6935._
+_Zhengyao Lin, Yi Cai, and **Milijana Surbatovich**. 2026. Let It Flow: A Formally Verified Compilation Framework for Asynchronous Dataflow. Proc. ACM Program. Lang. 10, PLDI, Article 185 (June 2026), 25 pages. https://doi.org/10.1145/3808263_ [Link to paper](./assets/docs/let-it-flow-pldi26.pdf)
+
+_Yi Cai, Pratap Singh, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, **Milijana Surbatovich**, and Bryan Parno. 2025. Vest: verified, secure, high-performance parsing and serialization for rust. In Proceedings of the 34th USENIX Conference on Security Symposium (SEC '25). USENIX Association, USA, Article 355, 6917–6935._ [Link to paper](./assets/docs/vest.pdf)
 
 
 _Myra Dotzel, Farzaneh Derakhshan, **Milijana Surbatovich**, and Limin Jia. 2025. Modal Crash Types for WAR-Aware Intermittent Computing. ACM Trans. Program. Lang. Syst. 47, 2, Article 5 (June 2025), 62 pages. https://doi.org/10.1145/3716311_ [Link to paper](./assets/docs/crash_types_toplas.pdf)
@@ -55,10 +62,18 @@ _**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin 
 - University of Rochester, 2013-2017: B.S. in Computer Science, _Summa cum laude_, minor in Russian.
 
 ### Teaching 
-- CMSC 838N - Language-based Security (Fall 2024)
-- CMSC 838L - Programming Languages and Computer Architecture (Spring 2024)
+- CMSC 838N - Language-based Security (Fall 2024, Fall 2026)
+- CMSC 838L - Programming Languages and Computer Architecture (Spring 2024, Fall 2025)
+- CMSC 430 - Introduction to Compilers (Spring 2025, Spring 2026)
 
 ### Service
 
 Program commitees: 
-- 2025: ESOP, HPCA, OOPSLA
+- 2025: ESOP, HPCA, OOPSLA, MICRO
+- 2026: PLDI
+- 2027: POPL
+
+Organizing:
+- 2025: PLMW@SPLASH Junior co-chair 
+- 2026: PLMW@SPASH  Senior co-chair
+
