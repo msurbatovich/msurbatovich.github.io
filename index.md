@@ -26,6 +26,8 @@ If you are a student interested in working with me, be sure to make any emails s
 
 ### Publications
 
+_A. Coppens, J. Sha, **M. Surbatovich** and B. Asgari, "Sāmaya: Safe Memory Accesses to Expand Coarse-Grain Reconfigurable ArraY Adoption," in IEEE Computer Architecture Letters, doi: 10.1109/LCA.2026.3701336_ [Link to paper](./assets/docs/samaya.pdf)
+
 _Zhengyao Lin, Yi Cai, and **Milijana Surbatovich**. 2026. Let It Flow: A Formally Verified Compilation Framework for Asynchronous Dataflow. Proc. ACM Program. Lang. 10, PLDI, Article 185 (June 2026), 25 pages. https://doi.org/10.1145/3808263_ [Link to paper](./assets/docs/let-it-flow-pldi26.pdf)
 
 _Yi Cai, Pratap Singh, Zhengyao Lin, Jay Bosamiya, Joshua Gancher, **Milijana Surbatovich**, and Bryan Parno. 2025. Vest: verified, secure, high-performance parsing and serialization for rust. In Proceedings of the 34th USENIX Conference on Security Symposium (SEC '25). USENIX Association, USA, Article 355, 6917–6935._ [Link to paper](./assets/docs/vest.pdf)
@@ -71,7 +73,7 @@ _**Milijana Surbatovich**, Jassim Aljuraidan, Lujo Bauer, Anupam Das, and Limin 
 Program commitees: 
 - 2025: ESOP, HPCA, OOPSLA, MICRO
 - 2026: PLDI
-- 2027: POPL
+- 2027: HPCA, POPL
 
 Organizing:
 - 2025: PLMW@SPLASH Junior co-chair 
